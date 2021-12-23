@@ -117,3 +117,18 @@ footer {
     max-width: 60%;
   }
 }
+
+@media (max-width: 580px) {
+  .link-container  {
+    display: flex;
+    flex-direction: row;
+  }
+
+}
+
+@media (min-width: 580px) and (max-width: 1030px) {
+  .link-container {
+    display: flex;
+    flex-direction: row;
+  }
+}
