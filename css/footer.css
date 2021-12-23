@@ -131,4 +131,7 @@ footer {
     display: flex;
     flex-direction: row;
   }
+  .link-container{
+     width: 50%;
+    }
 }
