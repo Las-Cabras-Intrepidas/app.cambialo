@@ -118,20 +118,3 @@ footer {
   }
 }
 
-@media (max-width: 580px) {
-  .footer-container  {
-    display: flex;
-    flex-direction: row;
-  }
-
-}
-
-@media (min-width: 580px) and (max-width: 1030px) {
-  .footer-container {
-    display: flex;
-    flex-direction: row;
-  }
-  .link-container{
-     width: 50%;
-    }
-}
